@@ -2,9 +2,9 @@
 running on LGT8F328P-SSOP20
 
 + Hardware connection
-`PB5` -> `SWC`
-`PB4` -> `SWD`
-`PB1` -> `RST`
+`PB5` -> `SWC`  
+`PB4` -> `SWD`  
+`PB1` -> `RST`  
 
 
 + Command line example
