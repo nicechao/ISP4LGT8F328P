@@ -1,7 +1,7 @@
 ##### LarduinoISP for LGT8F328P
 running on LGT8F328P-SSOP20
 
-+ Hardware connection
++ Hardware connection  
 `PB5` -> `SWC`  
 `PB4` -> `SWD`  
 `PB1` -> `RST`  
